@@ -1,0 +1,3 @@
+# gittext
+first django
+
